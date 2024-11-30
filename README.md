@@ -112,4 +112,4 @@ For questions, feedback, or collaboration opportunities, reach out to:
 
 Mindconnect Team
 Email: support@mindconnect.com
-GitHub: Mindconnect Repository
+
